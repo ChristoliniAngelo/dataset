@@ -1,0 +1,5 @@
+-pisahin kolom coat
+-imputasi kolom coat make modus
+-oversampling buat menghindari bias data
+-setelah itu ganti kolom coat di dataset awal dengan data yang sudah di oversampled
+-jadi!
